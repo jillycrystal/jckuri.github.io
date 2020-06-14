@@ -15,5 +15,8 @@ Website in construction...
 * Fractal Image Compression and Fractal Visual Analogies to solve Raven’s Progressive Matrices, the final project of Knowledge-Based Artificial Intelligence – Cognitive Systems.
 * Learning patterns from financial indicators to trade stocks by using genetic algorithms and Q-Learning, the final project of Machine Learning for Trading. I plan to build a ML system called Monster Trader, based on Deep Reinforcement Learning.
 * Lunar Lander, the Project 2 of Reinforcement Learning. It’s about learning the causal geometries of continuous, complex, and chaotic real-world problems by using Deep Reinforcement Learning.
-* For the course Artificial Intelligence for Robotics, I programmed Online Graph SLAM (Simultaneous Localization And Mapping) with a variable amount of landmarks, as the final research challenge. And I built a line-follower robot with Arduino for the hardware challenge: https://github.com/jckuri/line-follower-robot 
-* 5 T-shirt designs by using neural style transfer: https://github.com/jckuri/project-t-shirt
+* For the course Artificial Intelligence for Robotics, I programmed Online Graph SLAM (Simultaneous Localization And Mapping) with a variable amount of landmarks, as the final research challenge. And I built a line-follower robot with Arduino for the hardware challenge: [https://github.com/jckuri/line-follower-robot](https://github.com/jckuri/line-follower-robot)
+* 5 T-shirt designs by using neural style transfer: [https://github.com/jckuri/project-t-shirt](https://github.com/jckuri/project-t-shirt)
+* AI algorithms: Causal Router, Evolutionary Characterizer, Mental Image Reconstructor, Synergistic Pattern Generator, Mental Space Projector (Symmetry Detector, Kludge Generator, Flexible Applicability Finder), and Abstract SLAM.
+* I plan to program an AGI system based on Fuster’s cognit theory. It’s a long-term project.
+* A programming language which is symmetric, reflexive, and based on generative pattern matching. It will characterize patterns of mathematical thinking with which my artificial mathematician will reason.
