@@ -20,3 +20,13 @@ Website in construction...
 * AI algorithms: Causal Router, Evolutionary Characterizer, Mental Image Reconstructor, Synergistic Pattern Generator, Mental Space Projector (Symmetry Detector, Kludge Generator, Flexible Applicability Finder), and Abstract SLAM.
 * I plan to program an AGI system based on Fuster’s cognit theory. It’s a long-term project.
 * A programming language which is symmetric, reflexive, and based on generative pattern matching. It will characterize patterns of mathematical thinking with which my artificial mathematician will reason.
+* Edge Cameras for Detecting Human Presence (Intel Edge AI Scholarship Program) [https://github.com/jckuri/edge_cameras](https://github.com/jckuri/edge_cameras)
+* Here are some of the projects I program at the Georgia Tech OMS CS: [https://www.youtube.com/playlist?list=PL1s3sJwnzbJIFB7vXDDUGQOBzmZ2nraBK](https://www.youtube.com/playlist?list=PL1s3sJwnzbJIFB7vXDDUGQOBzmZ2nraBK)
+* “How to Make Deep Learning many Orders of Magnitude Faster”: [https://medium.com/secure-and-private-ai-math-
+blogging-competition/how-to-make-deep-learning-many-orders-of-magnitude-faster-4891204c54bc](https://medium.com/secure-and-private-ai-math-blogging-competition/how-to-make-deep-learning-many-orders-of-magnitude-faster-4891204c54bc)
+* “Webinar on Deep Reinforcement Learning (Secure & Private AI Scholarship Challenge)”
+[https://youtu.be/oauLZG9nAX0](https://youtu.be/oauLZG9nAX0), [http://bit.do/DeepRL2](http://bit.do/DeepRL2)
+* Ranked 5th among 6,000 in the Secure and Private AI Scholarship Challenge in Udacity (2019)
+**Project:** Diagnosing Acute Inflammations of Bladder (with Federated Learning) [https://sites.google.com/udacity.com/secureprivateai-phase-2/phase-1-archive/community-archived/project-
+showcase-challenge](https://sites.google.com/udacity.com/secureprivateai-phase-2/phase-1-archive/community-archived/project-
+showcase-challenge)
