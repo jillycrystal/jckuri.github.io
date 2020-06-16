@@ -18,7 +18,7 @@ Website in construction...
 * For the course Artificial Intelligence for Robotics, I programmed Online Graph SLAM (Simultaneous Localization And Mapping) with a variable amount of landmarks, as the final research challenge: [https://youtu.be/owGo0SPAvR8](https://youtu.be/owGo0SPAvR8). And I built a line-follower robot with Arduino for the hardware challenge: [https://github.com/jckuri/line-follower-robot](https://github.com/jckuri/line-follower-robot)
 * 5 T-shirt designs by using neural style transfer: [https://github.com/jckuri/project-t-shirt](https://github.com/jckuri/project-t-shirt)
 * AI algorithms: Causal Router, Evolutionary Characterizer, Mental Image Reconstructor, Synergistic Pattern Generator, Mental Space Projector (Symmetry Detector, Kludge Generator, Flexible Applicability Finder), and Abstract SLAM.
-* I plan to program an AGI system based on Fuster’s cognit theory. It’s a long-term project.
+* I plan to program an AGI system based on Fuster’s cognit theory. It’s a long-term project. [http://www.scholarpedia.org/article/Cortical_memory](http://www.scholarpedia.org/article/Cortical_memory)
 * A programming language which is symmetric, reflexive, and based on generative pattern matching. It will characterize patterns of mathematical thinking with which my artificial mathematician will reason.
 * Edge Cameras for Detecting Human Presence (Intel Edge AI Scholarship Program) [https://github.com/jckuri/edge_cameras](https://github.com/jckuri/edge_cameras)
 * Here are some of the projects I programmed in my masters at Georgia Tech: [https://www.youtube.com/playlist?list=PL1s3sJwnzbJIFB7vXDDUGQOBzmZ2nraBK](https://www.youtube.com/playlist?list=PL1s3sJwnzbJIFB7vXDDUGQOBzmZ2nraBK)
