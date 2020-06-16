@@ -28,3 +28,4 @@ blogging-competition/how-to-make-deep-learning-many-orders-of-magnitude-faster-4
 [https://youtu.be/oauLZG9nAX0](https://youtu.be/oauLZG9nAX0), [http://bit.do/DeepRL2](http://bit.do/DeepRL2)
 * Ranked 5th among 6,000 in the Secure and Private AI Scholarship Challenge in Udacity (2019)
 **Project:** Diagnosing Acute Inflammations of Bladder (with Federated Learning) [https://sites.google.com/udacity.com/secureprivateai-phase-2/phase-1-archive/community-archived/project-showcase-challenge](https://sites.google.com/udacity.com/secureprivateai-phase-2/phase-1-archive/community-archived/project-showcase-challenge)
+* Semantic Segmentation for Self-Driving Cars with OpenVINO: https://www.youtube.com/watch?v=Urph3UHLivY
