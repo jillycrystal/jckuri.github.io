@@ -115,68 +115,90 @@ Seeking a full time position as a software engineer or research engineer where I
 <table border="0">
   <tr>
     <td>
-      hello
+      Project Reviewer and Mentor<br/>
+      Udacity
     </td>
     <td>
-      hello
+      2017 - Present
     </td>
   </tr>
 </table>
 
-<table border="0">
-  <tr>
-    <td>
-      Hello
-    </td>
-    <td>
-      Hello
-    </td>
-  </tr>
-</table>
+* Mentoring the nanodegrees: Intro to Self-Driving Cars, Computer Vision, and AI for Healthcare.
 
 <table border="0">
   <tr>
     <td>
-      Hello
+      Software Developer<br/>
+      Palosanto Solutions
     </td>
     <td>
-      Hello
+      2011
     </td>
   </tr>
 </table>
 
-<table border="0">
-  <tr>
-    <td>
-      Hello
-    </td>
-    <td>
-      Hello
-    </td>
-  </tr>
-</table>
+* Built and programmed a telepresence robot with Arduino, an iPhone, Elastix <http://www.elastix.org/>, and Doubango <https://www.doubango.org/>.
+* Programmed a softphone with video conference using Elastix and Doubango.
 
 <table border="0">
   <tr>
     <td>
-      Hello
+      Artificial Intelligence Engineer<br/>
+      Neuro Synergetics (Entrepreneurship)
     </td>
     <td>
-      Hello
+      2005 - Present
     </td>
   </tr>
 </table>
 
+* Developing new artificial intelligence algorithms and software that can learn, reason, abstract, and create patterns in many domains.
+* Offering consulting services.
+
 <table border="0">
   <tr>
     <td>
-      Hello
+      Teaching Assistant of Programming Languages<br/>
+      Department of Electrical and Computer Engineering - ESPOL
     </td>
     <td>
-      Hello
+      2000 – 2002
     </td>
   </tr>
 </table>
+
+* Served in the Programming Languages class where I helped with diverse activities like grading projects and giving lectures. 
+* Taught 5 programming languages (HTML, SmallTalk, C++, ML, Java) and the techniques to develop videogames and the course projects.
+
+<table border="0">
+  <tr>
+    <td>
+      Software Developer<br/>
+      Yoveri - ESPOL
+    </td>
+    <td>
+      2001
+    </td>
+  </tr>
+</table>
+
+* Programmed a workflow to keep track of processes in companies.
+
+<table border="0">
+  <tr>
+    <td>
+      Software Developer and Research Assistant<br/>
+      CENAIM - ESPOL
+    </td>
+    <td>
+      1999
+    </td>
+  </tr>
+</table>
+
+* Programmed the graphical interface of an expert system for the diagnosis of shrimp's diseases.
+* Programmed an electronic blackboard and chat room to make students interact better with professors.
 
 ## INTERESTING PROJECTS
 
