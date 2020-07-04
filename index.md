@@ -9,9 +9,9 @@
       E-mail: jckuri@gmail.com
     </td>
     <td>
-      LinkedIn: [https://www.linkedin.com/in/jckuri/]<br/>
-      GitHub: [https://github.com/jckuri]<br/>
-      Website: [https://jckuri.github.io/]
+      LinkedIn: (https://www.linkedin.com/in/jckuri/)<br/>
+      GitHub: (https://github.com/jckuri)<br/>
+      Website: (https://jckuri.github.io/)
     </td>
   </tr>
 </table>
