@@ -1,12 +1,12 @@
 # Juan Carlos Kuri Pinto
 
-<!--
+<head>
 <style>
  table {
   width:100%;
  }
 </style>
--->
+</head>
 
 <table border="0">
   <tr>
