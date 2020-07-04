@@ -8,6 +8,7 @@
 </head>
 
 <body>
+ 
 # Juan Carlos Kuri Pinto
 
 
@@ -243,5 +244,6 @@ Seeking a full time position as a software engineer or research engineer where I
 ## LANGUAGES
 
 * Spanish, English, and French
+
 </body>
 </html>
