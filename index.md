@@ -3,14 +3,14 @@
 <table border="0">
   <tr>
     <td>
-      Nueva Kennedy, Teodoro Maldonado #222 y Benito Juárez
-      Guayaquil, Ecuador
-      Cellphone and WhatsApp: +593 985170067
+      Nueva Kennedy, Teodoro Maldonado #222 y Benito Juárez<br/>
+      Guayaquil, Ecuador<br/>
+      Cellphone and WhatsApp: +593 985170067<br/>
       E-mail: jckuri@gmail.com
     </td>
     <td>
-      LinkedIn: https://www.linkedin.com/in/jckuri/
-      GitHub: https://github.com/jckuri
+      LinkedIn: https://www.linkedin.com/in/jckuri/<br/>
+      GitHub: https://github.com/jckuri<br/>
       Website: https://jckuri.github.io/
     </td>
   </tr>
