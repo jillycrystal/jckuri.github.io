@@ -18,12 +18,11 @@
 </table>
 -->
 
-|------------------------------------------------------|--------------------|
 |Nueva Kennedy, Teodoro Maldonado #222 y Benito Juárez |                    |
 |Guayaquil, Ecuador                                    |                    |
 |Cellphone and WhatsApp: +593 985170067                |                    |
 |E-mail: jckuri@gmail.com                              |                    |
-|------------------------------------------------------|--------------------|
+
 
 
 Seeking a full time position as a software engineer or research engineer where I can apply my skills and experience, and tackle new challenges. Currently offering consulting services, developing new artificial intelligence algorithms and software as an entrepreneur, and mentoring 3 AI nanodegrees at Udacity.
