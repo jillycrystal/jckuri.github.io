@@ -1,5 +1,11 @@
 # Juan Carlos Kuri Pinto
 
+<style>
+ table {
+  width:100%;
+ }
+</style>
+
 <table border="0">
   <tr>
     <td>
