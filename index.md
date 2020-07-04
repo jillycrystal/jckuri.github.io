@@ -1,16 +1,4 @@
-<html>
-<head>
-<style>
- table {
-  width:100%;
- }
-</style>
-</head>
-
-<body>
- 
 # Juan Carlos Kuri Pinto
-
 
 <table border="0">
   <tr>
@@ -244,6 +232,3 @@ Seeking a full time position as a software engineer or research engineer where I
 ## LANGUAGES
 
 * Spanish, English, and French
-
-</body>
-</html>
