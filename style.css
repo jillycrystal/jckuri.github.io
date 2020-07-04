@@ -1,0 +1,6 @@
+        table{
+        width:100%!important;
+        table-layout: fixed!important;
+        overflow-wrap: break-word!important;
+    }
+    
