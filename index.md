@@ -1,7 +1,7 @@
 # Juan Carlos Kuri Pinto
 
-<table border="0" width="100%">
-  <tr>
+<table border="0">
+  <tr width="100%">
     <td>
       Nueva Kennedy, Teodoro Maldonado #222 y Benito Juárez<br/>
       Guayaquil, Ecuador<br/>
