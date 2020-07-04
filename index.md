@@ -1,3 +1,5 @@
+<link href="style.css" rel="stylesheet"></link>
+
 # Juan Carlos Kuri Pinto
 
 <table border="0">
