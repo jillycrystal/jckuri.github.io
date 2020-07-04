@@ -90,9 +90,25 @@ Seeking a full time position as a software engineer or research engineer where I
 
 ## TECHNICAL SKILLS
 
+* Experience in more than 40 programming languages, tools, and scripts including: Python, C/C++, Java, Javascript, C#, Visual Basic, Scala, Clojure, Haskell, Assembly language, iOS programming, Android programming, Web development, PyTorch, Keras, Tensorflow, DirectX, OpenGL, OpenMP, OpenMPI, SQL, MatLab/Octave, Hadoop, Spark, Amazon Web Services, AWS SageMaker, Unix, github, Lego Mindstorms, and Arduino.
+
 ## AWARDS
 
+* Among 300 winners of the AWS DeepRacer Scholarship Challenge in Udacity (2019)<br/>
+  https://www.udacity.com/aws-deepracer-scholarship 
+* Ranked 5th among 6,000 in the Secure and Private AI Scholarship Challenge in Udacity (2019)<br/>
+  Project: Diagnosing Acute Inflammations of Bladder (with Federated Learning)<br/>
+  https://sites.google.com/udacity.com/secureprivateai-phase-2/phase-1-archive/community-archived/project-showcase-challenge 
+* Silver medal and diploma of honor for being the best student of FIEC-ESPOL (2003)
+* Best student in the Computer Engineering program at ESPOL (2001 and 2002)
+* Medals of the Philanthropic Society of Guayas, Ecuador (2001 and 2002)
+* Best project of “Semana Cultural Lasallana 1994” for developing the videogame “Duende”. I appeared in a local newspaper and in the magazine “PC World” when I was 15 years old.
+
 ## TECHNICAL WRITINGS AND PRESENTATIONS
+
+* “How to Make Deep Learning many Orders of Magnitude Faster”: https://medium.com/secure-and-private-ai-math-blogging-competition/how-to-make-deep-learning-many-orders-of-magnitude-faster-4891204c54bc
+* "How and Why Deep Learning Works": https://medium.com/secure-and-private-ai-math-blogging-competition/how-and-why-deep-learning-works-60df8093e19f
+* “Webinar on Deep Reinforcement Learning (Secure & Private AI Scholarship Challenge)”: https://youtu.be/oauLZG9nAX0, http://bit.do/DeepRL2
 
 ## WORK EXPERIENCE
 
