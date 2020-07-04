@@ -23,24 +23,31 @@ Seeking a full time position as a software engineer or research engineer where I
 <table border="0">
   <tr>
     <td>
-      Hello
+      Georgia Institute of Technology https://www.omscs.gatech.edu/<br/>
+      Master of Science in Computer Science (GPA 4.0 / 4.0)<br/>
+      Specialization: Machine Learning
     </td>
     <td>
-      Hello
+      Fall 2016 – Summer 2018
     </td>
   </tr>
 </table>
+* Courses: Computability, Complexity & Algorithms, Machine Learning, High-Performance Computing, Knowledge-Based Artificial Intelligence - Cognitive Systems, Artificial Intelligence, Big Data Analytics for Healthcare, Machine Learning for Trading, Computer Vision, Reinforcement Learning, and Artificial Intelligence for Robotics.
 
 <table border="0">
   <tr>
     <td>
-      Hello
+      ESPOL (Escuela Superior Politécnica del Litoral) http://www.espol.edu.ec/<br/>
+      Computer Engineering Degree (GPA 9.04 / 10)<br/>
+      Specialization: Information Systems
     </td>
     <td>
-      Hello
+      1997 - 2002
     </td>
   </tr>
 </table>
+* Silver medal and diploma of honor for being the best student of FIEC-ESPOL.
+* Thesis: “Basic Algorithms of Cognitive Computing for Programming Artificial Brains” http://www.dspace.espol.edu.ec/xmlui/handle/123456789/30534
 
 ## ONLINE EDUCATION
 
