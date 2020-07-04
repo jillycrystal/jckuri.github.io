@@ -1,3 +1,10 @@
+---
+title: "Juan Carlos Kuri Pinto - Projects"
+output:
+  html_document:
+    css: style.css
+---
+
 # Juan Carlos Kuri Pinto
 
 <table border="0">
