@@ -16,6 +16,11 @@
   </tr>
 </table>
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
 Seeking a full time position as a software engineer or research engineer where I can apply my skills and experience, and tackle new challenges. Currently offering consulting services, developing new artificial intelligence algorithms and software as an entrepreneur, and mentoring 3 AI nanodegrees at Udacity.
 
 ## EDUCATION
