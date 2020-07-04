@@ -9,9 +9,9 @@
       E-mail: jckuri@gmail.com
     </td>
     <td>
-      LinkedIn: (https://www.linkedin.com/in/jckuri/)<br/>
-      GitHub: (https://github.com/jckuri)<br/>
-      Website: (https://jckuri.github.io/)
+      LinkedIn: https://www.linkedin.com/in/jckuri/<br/>
+      GitHub: https://github.com/jckuri<br/>
+      Website: https://jckuri.github.io/
     </td>
   </tr>
 </table>
@@ -23,7 +23,7 @@ Seeking a full time position as a software engineer or research engineer where I
 <table border="0">
   <tr>
     <td>
-      <b>Georgia Institute of Technology</b> <https://www.omscs.gatech.edu/><br/>
+      <b>Georgia Institute of Technology</b> https://www.omscs.gatech.edu/<br/>
       Master of Science in Computer Science <b>(GPA 4.0 / 4.0)</b><br/>
       Specialization: Machine Learning
     </td>
@@ -38,7 +38,7 @@ Seeking a full time position as a software engineer or research engineer where I
 <table border="0">
   <tr>
     <td>
-      <b>ESPOL (Escuela Superior Politécnica del Litoral)</b> <http://www.espol.edu.ec/><br/>
+      <b>ESPOL (Escuela Superior Politécnica del Litoral)</b> http://www.espol.edu.ec/<br/>
       Computer Engineering Degree <b>(GPA 9.04 / 10)</b><br/>
       Specialization: Information Systems
     </td>
@@ -49,14 +49,14 @@ Seeking a full time position as a software engineer or research engineer where I
 </table>
 
 * Silver medal and diploma of honor for being the best student of FIEC-ESPOL.
-* Thesis: “Basic Algorithms of Cognitive Computing for Programming Artificial Brains” <http://www.dspace.espol.edu.ec/xmlui/handle/123456789/30534>
+* Thesis: “Basic Algorithms of Cognitive Computing for Programming Artificial Brains” http://www.dspace.espol.edu.ec/xmlui/handle/123456789/30534
 
 ## ONLINE EDUCATION
 
 <table border="0">
   <tr>
     <td>
-      <b>Udacity</b> <https://www.udacity.com/>
+      <b>Udacity</b> https://www.udacity.com/
     </td>
     <td>
       2012 - Present
@@ -65,11 +65,11 @@ Seeking a full time position as a software engineer or research engineer where I
 </table>
 
 * Graduated from the following nanodegrees:
-  * Computer Vision Nanodegree: <https://confirm.udacity.com/47JM5SGM>
-  * Machine Learning Engineer Nanodegree: <https://confirm.udacity.com/TJC2E54S>
-  * Deep Learning Nanodegree: <https://confirm.udacity.com/CRNUR3DJ>
-  * Deep Reinforcement Learning Nanodegree: <https://confirm.udacity.com/2PUHR734> 
-  * Natural Language Processing Nanodegree: <https://confirm.udacity.com/SNNJAUP>
+  * Computer Vision Nanodegree: https://confirm.udacity.com/47JM5SGM
+  * Machine Learning Engineer Nanodegree: https://confirm.udacity.com/TJC2E54S
+  * Deep Learning Nanodegree: https://confirm.udacity.com/CRNUR3DJ
+  * Deep Reinforcement Learning Nanodegree: https://confirm.udacity.com/2PUHR734
+  * Natural Language Processing Nanodegree: https://confirm.udacity.com/SNNJAUP
 * Selected for Phase 2 in the following scholarships:
   * Secure and Private AI Scholarship Challenge (SPAIC) from Facebook
   * AWS DeepRacer Scholarship Challenge
@@ -78,7 +78,7 @@ Seeking a full time position as a software engineer or research engineer where I
 <table border="0">
   <tr>
     <td>
-      <b>Coursera</b> <https://www.coursera.org/>
+      <b>Coursera</b> https://www.coursera.org/
     </td>
     <td>
       2012 - Present
@@ -95,10 +95,10 @@ Seeking a full time position as a software engineer or research engineer where I
 ## AWARDS
 
 * Among 300 winners of the AWS DeepRacer Scholarship Challenge in Udacity (2019)<br/>
-  <https://www.udacity.com/aws-deepracer-scholarship>
+  https://www.udacity.com/aws-deepracer-scholarship
 * Ranked 5th among 6,000 in the Secure and Private AI Scholarship Challenge in Udacity (2019)<br/>
   Project: Diagnosing Acute Inflammations of Bladder (with Federated Learning)<br/>
-  <https://sites.google.com/udacity.com/secureprivateai-phase-2/phase-1-archive/community-archived/project-showcase-challenge>
+  https://sites.google.com/udacity.com/secureprivateai-phase-2/phase-1-archive/community-archived/project-showcase-challenge
 * Silver medal and diploma of honor for being the best student of FIEC-ESPOL (2003)
 * Best student in the Computer Engineering program at ESPOL (2001 and 2002)
 * Medals of the Philanthropic Society of Guayas, Ecuador (2001 and 2002)
@@ -107,11 +107,11 @@ Seeking a full time position as a software engineer or research engineer where I
 ## TECHNICAL WRITINGS AND PRESENTATIONS
 
 * “How to Make Deep Learning many Orders of Magnitude Faster”:<br/>
-  <https://medium.com/secure-and-private-ai-math-blogging-competition/how-to-make-deep-learning-many-orders-of-magnitude-faster-4891204c54bc>
+  https://medium.com/secure-and-private-ai-math-blogging-competition/how-to-make-deep-learning-many-orders-of-magnitude-faster-4891204c54bc
 * "How and Why Deep Learning Works":<br/>
-  <https://medium.com/secure-and-private-ai-math-blogging-competition/how-and-why-deep-learning-works-60df8093e19f>
+  https://medium.com/secure-and-private-ai-math-blogging-competition/how-and-why-deep-learning-works-60df8093e19f
 * “Webinar on Deep Reinforcement Learning (Secure & Private AI Scholarship Challenge)”:<br/>
-  <https://youtu.be/oauLZG9nAX0>, <http://bit.do/DeepRL2>
+  https://youtu.be/oauLZG9nAX0, http://bit.do/DeepRL2
 
 ## WORK EXPERIENCE
 
@@ -141,7 +141,7 @@ Seeking a full time position as a software engineer or research engineer where I
   </tr>
 </table>
 
-* Built and programmed a telepresence robot with Arduino, an iPhone, Elastix <http://www.elastix.org/>, and Doubango <https://www.doubango.org/>.
+* Built and programmed a telepresence robot with Arduino, an iPhone, Elastix http://www.elastix.org/, and Doubango https://www.doubango.org/.
 * Programmed a softphone with video conference using Elastix and Doubango.
 
 <table border="0">
