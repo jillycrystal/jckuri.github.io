@@ -1,7 +1,7 @@
 # Juan Carlos Kuri Pinto
 
 <table border="0">
-  <tr width="100%">
+  <tr>
     <td>
       Nueva Kennedy, Teodoro Maldonado #222 y Benito Juárez<br/>
       Guayaquil, Ecuador<br/>
@@ -56,24 +56,37 @@ Seeking a full time position as a software engineer or research engineer where I
 <table border="0">
   <tr>
     <td>
-      Hello
+      Udacity https://www.udacity.com/
     </td>
     <td>
-      Hello
+      2012 - Present
     </td>
   </tr>
 </table>
 
+* Graduated from the following nanodegrees:
+  * Computer Vision Nanodegree: https://confirm.udacity.com/47JM5SGM 
+  * Machine Learning Engineer Nanodegree: https://confirm.udacity.com/TJC2E54S 
+  * Deep Learning Nanodegree: https://confirm.udacity.com/CRNUR3DJ 
+  * Deep Reinforcement Learning Nanodegree: https://confirm.udacity.com/2PUHR734 
+  * Natural Language Processing Nanodegree: https://confirm.udacity.com/SNNJAUP 
+* Selected for Phase 2 in the following scholarships:
+  * Secure and Private AI Scholarship Challenge (SPAIC) from Facebook
+  * AWS DeepRacer Scholarship Challenge
+  * Intel Edge AI Scholarship Program
+
 <table border="0">
   <tr>
     <td>
-      Hello
+      Coursera https://www.coursera.org/
     </td>
     <td>
-      Hello
+      2012 - Present
     </td>
   </tr>
 </table>
+
+* Courses: Machine Learning, Probabilistic Graphical Models, Natural Language Processing, Computer Vision: The Fundamentals, Neural Networks for Machine Learning, Control of Mobile Robots, Artificial Intelligence Planning, Synapses, Neurons & Brains, Computational Neuroscience, Coding the Matrix: Linear Algebra through Computer Science Applications, Principles of Reactive Programming, Discrete Inference and Learning in Artificial Vision, The Brain and Space, Visual Perception and the Brain, Detección de Objetos, and Learning How to Learn: Powerful mental tools to help you master tough subjects.
 
 ## TECHNICAL SKILLS
 
@@ -86,10 +99,10 @@ Seeking a full time position as a software engineer or research engineer where I
 <table border="0">
   <tr>
     <td>
-      Hello
+      hello
     </td>
     <td>
-      Hello
+      hello
     </td>
   </tr>
 </table>
