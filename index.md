@@ -32,6 +32,7 @@ Seeking a full time position as a software engineer or research engineer where I
     </td>
   </tr>
 </table>
+
 * Courses: Computability, Complexity & Algorithms, Machine Learning, High-Performance Computing, Knowledge-Based Artificial Intelligence - Cognitive Systems, Artificial Intelligence, Big Data Analytics for Healthcare, Machine Learning for Trading, Computer Vision, Reinforcement Learning, and Artificial Intelligence for Robotics.
 
 <table border="0">
@@ -46,6 +47,7 @@ Seeking a full time position as a software engineer or research engineer where I
     </td>
   </tr>
 </table>
+
 * Silver medal and diploma of honor for being the best student of FIEC-ESPOL.
 * Thesis: “Basic Algorithms of Cognitive Computing for Programming Artificial Brains” http://www.dspace.espol.edu.ec/xmlui/handle/123456789/30534
 
