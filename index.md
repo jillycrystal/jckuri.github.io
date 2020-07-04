@@ -1,6 +1,6 @@
 # Juan Carlos Kuri Pinto
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
     <td>
       Nueva Kennedy, Teodoro Maldonado #222 y Benito Juárez<br/>
