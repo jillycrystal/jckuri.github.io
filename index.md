@@ -1,5 +1,21 @@
 # Juan Carlos Kuri Pinto
 
+<table border="0">
+  <tr>
+    <td>
+      Nueva Kennedy, Teodoro Maldonado #222 y Benito Juárez
+      Guayaquil, Ecuador
+      Cellphone and WhatsApp: +593 985170067
+      E-mail: jckuri@gmail.com
+    </td>
+    <td>
+      LinkedIn: https://www.linkedin.com/in/jckuri/
+      GitHub: https://github.com/jckuri
+      Website: https://jckuri.github.io/
+    </td>
+  </tr>
+</table>
+
 Website in construction...
 
 ## INTERESTING PROJECTS
