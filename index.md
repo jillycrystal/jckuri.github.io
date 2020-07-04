@@ -16,7 +16,21 @@
   </tr>
 </table>
 
-Website in construction...
+Seeking a full time position as a software engineer or research engineer where I can apply my skills and experience, and tackle new challenges. Currently offering consulting services, developing new artificial intelligence algorithms and software as an entrepreneur, and mentoring 3 AI nanodegrees at Udacity.
+
+## EDUCATION
+
+## ONLINE EDUCATION
+
+## TECHNICAL SKILLS
+
+## AWARDS
+
+## TECHNICAL WRITINGS AND PRESENTATIONS
+
+## WORK EXPERIENCE
+
+
 
 ## INTERESTING PROJECTS
 
@@ -45,3 +59,16 @@ blogging-competition/how-to-make-deep-learning-many-orders-of-magnitude-faster-4
 * Ranked 5th among 6,000 in the Secure and Private AI Scholarship Challenge in Udacity (2019)
 **Project:** Diagnosing Acute Inflammations of Bladder (with Federated Learning) [https://sites.google.com/udacity.com/secureprivateai-phase-2/phase-1-archive/community-archived/project-showcase-challenge](https://sites.google.com/udacity.com/secureprivateai-phase-2/phase-1-archive/community-archived/project-showcase-challenge)
 * Semantic Segmentation for Self-Driving Cars with OpenVINO: https://www.youtube.com/watch?v=Urph3UHLivY
+
+## REFERENCES
+
+    • Ph.D. Vicente Ordóñez, vicente@virginia.edu (Assistant Professor at University of Virginia)
+    • Ph.D. Carlos Monsalve, monsalve@espol.edu.ec (Professor of ESPOL)
+    • M.Sc. Jorge Flores, flojorge@gmail.com, rflores@espol.edu.ec (Professor of ESPOL)
+    • M.Sc. Carlos Jordán, cjordan@espol.edu.ec (Retired Professor of ESPOL)
+    • M.Sc. Romeo Cabrera, rcabrera@gmail.com (Asistente Técnico de la Alta Gerencia de Banco Pichincha)
+    • M.Sc. Juan Carlos Vizueta, jvizueta@gmail.com (Ejecutivo 1 - Agile Coach de Banco Pacífico)
+
+## LANGUAGES
+
+* Spanish, English, and French
