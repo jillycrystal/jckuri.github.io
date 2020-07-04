@@ -20,7 +20,51 @@ Seeking a full time position as a software engineer or research engineer where I
 
 ## EDUCATION
 
+<table border="0">
+  <tr>
+    <td>
+      Hello
+    </td>
+    <td>
+      Hello
+    </td>
+  </tr>
+</table>
+
+<table border="0">
+  <tr>
+    <td>
+      Hello
+    </td>
+    <td>
+      Hello
+    </td>
+  </tr>
+</table>
+
 ## ONLINE EDUCATION
+
+<table border="0">
+  <tr>
+    <td>
+      Hello
+    </td>
+    <td>
+      Hello
+    </td>
+  </tr>
+</table>
+
+<table border="0">
+  <tr>
+    <td>
+      Hello
+    </td>
+    <td>
+      Hello
+    </td>
+  </tr>
+</table>
 
 ## TECHNICAL SKILLS
 
@@ -30,44 +74,97 @@ Seeking a full time position as a software engineer or research engineer where I
 
 ## WORK EXPERIENCE
 
+<table border="0">
+  <tr>
+    <td>
+      Hello
+    </td>
+    <td>
+      Hello
+    </td>
+  </tr>
+</table>
 
+<table border="0">
+  <tr>
+    <td>
+      Hello
+    </td>
+    <td>
+      Hello
+    </td>
+  </tr>
+</table>
+
+<table border="0">
+  <tr>
+    <td>
+      Hello
+    </td>
+    <td>
+      Hello
+    </td>
+  </tr>
+</table>
+
+<table border="0">
+  <tr>
+    <td>
+      Hello
+    </td>
+    <td>
+      Hello
+    </td>
+  </tr>
+</table>
+
+<table border="0">
+  <tr>
+    <td>
+      Hello
+    </td>
+    <td>
+      Hello
+    </td>
+  </tr>
+</table>
+
+<table border="0">
+  <tr>
+    <td>
+      Hello
+    </td>
+    <td>
+      Hello
+    </td>
+  </tr>
+</table>
 
 ## INTERESTING PROJECTS
 
-* Many experiments and projects with computational intelligence: Datamining, graph search, neural networks, deep learning, expert systems, fuzzy logic, and genetic algorithms.
-* Mathematical simulations of physics.
-* Many videogames of many types: Action, adventure, puzzles, mazes, 2D, 3D, and multi-player.
-* Artificial programmers (programs that autonomously generate other programs) and my own programming languages.
-* Many projects with client-server architectures, distributed systems, and some communication protocols.
-* Interactive websites, e-commerce websites, and geographic information systems (GIS).
-* Multimedia applications to generate graphics, 3D animations, sounds, and music. I programmed an artificial guitar player that plays guitar tablatures. I am an amateur guitar player and singer.
+* Mathematical simulations of physics and many kinds of videogames: Action, adventure, puzzles, mazes, 2D, 3D, and multi-player.
+* Client-server architectures, distributed systems, communication protocols, interactive websites, e-commerce websites, and geographic information systems (GIS).
+* Multimedia applications to generate graphics, 3D animations, sounds, and music. I programmed an artificial guitar player that plays guitar tablatures.
 * “Classification and Detection of Nuclei in Histology Images Using Convolutional Neural Networks”, the final project of Big Data Analytics for Healthcare.
 * Fractal Image Compression and Fractal Visual Analogies to solve Raven’s Progressive Matrices, the final project of Knowledge-Based Artificial Intelligence – Cognitive Systems.
-* Learning patterns from financial indicators to trade stocks by using genetic algorithms and Q-Learning, the final project of Machine Learning for Trading. I plan to build a ML system called Monster Trader, based on Deep Reinforcement Learning.
-* Lunar Lander, the Project 2 of Reinforcement Learning. It’s about learning the causal geometries of continuous, complex, and chaotic real-world problems by using Deep Reinforcement Learning.
-* For the course Artificial Intelligence for Robotics, I programmed Online Graph SLAM (Simultaneous Localization And Mapping) with a variable amount of landmarks, as the final research challenge: [https://youtu.be/owGo0SPAvR8](https://youtu.be/owGo0SPAvR8). And I built a line-follower robot with Arduino for the hardware challenge: [https://github.com/jckuri/line-follower-robot](https://github.com/jckuri/line-follower-robot)
-* 5 T-shirt designs by using neural style transfer: [https://github.com/jckuri/project-t-shirt](https://github.com/jckuri/project-t-shirt)
-* AI algorithms: Causal Router, Evolutionary Characterizer, Mental Image Reconstructor, Synergistic Pattern Generator, Mental Space Projector (Symmetry Detector, Kludge Generator, Flexible Applicability Finder), and Abstract SLAM.
-* I plan to program an AGI system based on Fuster’s cognit theory. It’s a long-term project. [http://www.scholarpedia.org/article/Cortical_memory](http://www.scholarpedia.org/article/Cortical_memory)
+* Learning patterns from financial indicators to trade stocks by using genetic algorithms and Q-Learning, the final project of Machine Learning for Trading. I plan to program the Monster Trader based on Deep Reinforcement Learning.
+* Many robots that learn to move from scratch by using Deep Reinforcement Learning.
+* For the course Artificial Intelligence for Robotics, I programmed Online Graph SLAM (Simultaneous Localization And Mapping) with a variable amount of landmarks: https://youtu.be/owGo0SPAvR8. And I built a line-follower robot with Arduino: https://github.com/jckuri/line-follower-robot 
+* 5 T-shirt designs by using neural style transfer: https://github.com/jckuri/project-t-shirt 
+* New AI algorithms: Causal Router, Evolutionary Characterizer, Mental Image Reconstructor, Synergistic Pattern Generator, Flexible Applicability Finder, and Abstract SLAM.
+* AGI system based on Fuster’s cognit theory (long-term project): http://www.scholarpedia.org/article/Cortical_memory 
 * A programming language which is symmetric, reflexive, and based on generative pattern matching. It will characterize patterns of mathematical thinking with which my artificial mathematician will reason.
-* Edge Cameras for Detecting Human Presence (Intel Edge AI Scholarship Program) [https://github.com/jckuri/edge_cameras](https://github.com/jckuri/edge_cameras)
-* Here are some of the projects I programmed in my masters at Georgia Tech: [https://www.youtube.com/playlist?list=PL1s3sJwnzbJIFB7vXDDUGQOBzmZ2nraBK](https://www.youtube.com/playlist?list=PL1s3sJwnzbJIFB7vXDDUGQOBzmZ2nraBK)
-* “How to Make Deep Learning many Orders of Magnitude Faster”: [https://medium.com/secure-and-private-ai-math-
-blogging-competition/how-to-make-deep-learning-many-orders-of-magnitude-faster-4891204c54bc](https://medium.com/secure-and-private-ai-math-blogging-competition/how-to-make-deep-learning-many-orders-of-magnitude-faster-4891204c54bc)
-* “Webinar on Deep Reinforcement Learning (Secure & Private AI Scholarship Challenge)”
-[https://youtu.be/oauLZG9nAX0](https://youtu.be/oauLZG9nAX0), [http://bit.do/DeepRL2](http://bit.do/DeepRL2)
-* Ranked 5th among 6,000 in the Secure and Private AI Scholarship Challenge in Udacity (2019)
-**Project:** Diagnosing Acute Inflammations of Bladder (with Federated Learning) [https://sites.google.com/udacity.com/secureprivateai-phase-2/phase-1-archive/community-archived/project-showcase-challenge](https://sites.google.com/udacity.com/secureprivateai-phase-2/phase-1-archive/community-archived/project-showcase-challenge)
-* Semantic Segmentation for Self-Driving Cars with OpenVINO: https://www.youtube.com/watch?v=Urph3UHLivY
+* Edge Cameras for Detecting Human Presence (by using semantic segmentation) (Intel Edge AI Scholarship Program): https://github.com/jckuri/edge_cameras 
+* Some projects of the OMS CS at Georgia Tech: https://www.youtube.com/playlist?list=PL1s3sJwnzbJIFB7vXDDUGQOBzmZ2nraBK 
 
 ## REFERENCES
 
-    • Ph.D. Vicente Ordóñez, vicente@virginia.edu (Assistant Professor at University of Virginia)
-    • Ph.D. Carlos Monsalve, monsalve@espol.edu.ec (Professor of ESPOL)
-    • M.Sc. Jorge Flores, flojorge@gmail.com, rflores@espol.edu.ec (Professor of ESPOL)
-    • M.Sc. Carlos Jordán, cjordan@espol.edu.ec (Retired Professor of ESPOL)
-    • M.Sc. Romeo Cabrera, rcabrera@gmail.com (Asistente Técnico de la Alta Gerencia de Banco Pichincha)
-    • M.Sc. Juan Carlos Vizueta, jvizueta@gmail.com (Ejecutivo 1 - Agile Coach de Banco Pacífico)
+* Ph.D. Vicente Ordóñez, vicente@virginia.edu (Assistant Professor at University of Virginia)
+* Ph.D. Carlos Monsalve, monsalve@espol.edu.ec (Professor of ESPOL)
+* M.Sc. Jorge Flores, flojorge@gmail.com, rflores@espol.edu.ec (Professor of ESPOL)
+* M.Sc. Carlos Jordán, cjordan@espol.edu.ec (Retired Professor of ESPOL)
+* M.Sc. Romeo Cabrera, rcabrera@gmail.com (Asistente Técnico de la Alta Gerencia de Banco Pichincha)
+* M.Sc. Juan Carlos Vizueta, jvizueta@gmail.com (Ejecutivo 1 - Agile Coach de Banco Pacífico)
 
 ## LANGUAGES
 
