@@ -1,6 +1,5 @@
 # Juan Carlos Kuri Pinto
 
-<!--
 <table border="0">
   <tr>
     <td>
@@ -16,22 +15,21 @@
     </td>
   </tr>
 </table>
--->
 
-|Nueva Kennedy, Teodoro Maldonado #222 y Benito Juárez |                    |
-|Guayaquil, Ecuador                                    |                    |
-|Cellphone and WhatsApp: +593 985170067                |                    |
-|E-mail: jckuri@gmail.com                              |                    |
+Heading Identifiers:
+### Red text title {#identifier .red}
 
-<div class="foo">
+Fenced Code Attributes:
+{.red .numberLines startFrom="1"}
 
-Header | header
------- | -----
-Bar | bar
+Inline Code Attributes:
+`red text`{.red}
 
-</div>
+Bracketed Spans:
+[This is *some red text*]{.red}
 
-
+Link Attributes:
+![alt text](the.jpg){.center}
 
 Seeking a full time position as a software engineer or research engineer where I can apply my skills and experience, and tackle new challenges. Currently offering consulting services, developing new artificial intelligence algorithms and software as an entrepreneur, and mentoring 3 AI nanodegrees at Udacity.
 
