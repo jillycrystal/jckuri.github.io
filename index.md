@@ -106,9 +106,12 @@ Seeking a full time position as a software engineer or research engineer where I
 
 ## TECHNICAL WRITINGS AND PRESENTATIONS
 
-* “How to Make Deep Learning many Orders of Magnitude Faster”: https://medium.com/secure-and-private-ai-math-blogging-competition/how-to-make-deep-learning-many-orders-of-magnitude-faster-4891204c54bc
-* "How and Why Deep Learning Works": https://medium.com/secure-and-private-ai-math-blogging-competition/how-and-why-deep-learning-works-60df8093e19f
-* “Webinar on Deep Reinforcement Learning (Secure & Private AI Scholarship Challenge)”: https://youtu.be/oauLZG9nAX0, http://bit.do/DeepRL2
+* “How to Make Deep Learning many Orders of Magnitude Faster”:<br/>
+  https://medium.com/secure-and-private-ai-math-blogging-competition/how-to-make-deep-learning-many-orders-of-magnitude-faster-4891204c54bc
+* "How and Why Deep Learning Works":<br/>
+  https://medium.com/secure-and-private-ai-math-blogging-competition/how-and-why-deep-learning-works-60df8093e19f
+* “Webinar on Deep Reinforcement Learning (Secure & Private AI Scholarship Challenge)”:<br/>
+  https://youtu.be/oauLZG9nAX0, http://bit.do/DeepRL2
 
 ## WORK EXPERIENCE
 
