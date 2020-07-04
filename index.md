@@ -1,5 +1,4 @@
-# Juan Carlos Kuri Pinto
-
+<html>
 <head>
 <style>
  table {
@@ -7,6 +6,10 @@
  }
 </style>
 </head>
+
+<body>
+# Juan Carlos Kuri Pinto
+
 
 <table border="0">
   <tr>
@@ -240,3 +243,5 @@ Seeking a full time position as a software engineer or research engineer where I
 ## LANGUAGES
 
 * Spanish, English, and French
+</body>
+</html>
