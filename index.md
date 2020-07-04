@@ -31,8 +31,8 @@ Seeking a full time position as a software engineer or research engineer where I
 <table border="0">
   <tr>
     <td>
-      Georgia Institute of Technology https://www.omscs.gatech.edu/<br/>
-      Master of Science in Computer Science (GPA 4.0 / 4.0)<br/>
+      *Georgia Institute of Technology* https://www.omscs.gatech.edu/<br/>
+      Master of Science in Computer Science *(GPA 4.0 / 4.0)*<br/>
       Specialization: Machine Learning
     </td>
     <td>
