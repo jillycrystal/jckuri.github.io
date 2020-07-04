@@ -31,8 +31,8 @@ Seeking a full time position as a software engineer or research engineer where I
 <table border="0">
   <tr>
     <td>
-      **Georgia Institute of Technology** https://www.omscs.gatech.edu/<br/>
-      Master of Science in Computer Science **(GPA 4.0 / 4.0)**<br/>
+      <b>Georgia Institute of Technology</b> https://www.omscs.gatech.edu/<br/>
+      Master of Science in Computer Science <b>(GPA 4.0 / 4.0)</b><br/>
       Specialization: Machine Learning
     </td>
     <td>
@@ -46,8 +46,8 @@ Seeking a full time position as a software engineer or research engineer where I
 <table border="0">
   <tr>
     <td>
-      ESPOL (Escuela Superior Politécnica del Litoral) http://www.espol.edu.ec/<br/>
-      Computer Engineering Degree (GPA 9.04 / 10)<br/>
+      <b>ESPOL (Escuela Superior Politécnica del Litoral)</b> http://www.espol.edu.ec/<br/>
+      Computer Engineering Degree <b>(GPA 9.04 / 10)</b><br/>
       Specialization: Information Systems
     </td>
     <td>
