@@ -64,7 +64,7 @@ Seeking a full time position as a software engineer or research engineer where I
 <table border="0">
   <tr>
     <td>
-      Udacity https://www.udacity.com/
+      <b>Udacity</b> https://www.udacity.com/
     </td>
     <td>
       2012 - Present
@@ -86,7 +86,7 @@ Seeking a full time position as a software engineer or research engineer where I
 <table border="0">
   <tr>
     <td>
-      Coursera https://www.coursera.org/
+      <b>Coursera</b> https://www.coursera.org/
     </td>
     <td>
       2012 - Present
@@ -126,7 +126,7 @@ Seeking a full time position as a software engineer or research engineer where I
 <table border="0">
   <tr>
     <td>
-      Project Reviewer and Mentor<br/>
+      <b>Project Reviewer and Mentor</b><br/>
       Udacity
     </td>
     <td>
@@ -140,7 +140,7 @@ Seeking a full time position as a software engineer or research engineer where I
 <table border="0">
   <tr>
     <td>
-      Software Developer<br/>
+      <b>Software Developer</b><br/>
       Palosanto Solutions
     </td>
     <td>
@@ -155,7 +155,7 @@ Seeking a full time position as a software engineer or research engineer where I
 <table border="0">
   <tr>
     <td>
-      Artificial Intelligence Engineer<br/>
+      <b>Artificial Intelligence Engineer</b><br/>
       Neuro Synergetics (Entrepreneurship)
     </td>
     <td>
@@ -170,7 +170,7 @@ Seeking a full time position as a software engineer or research engineer where I
 <table border="0">
   <tr>
     <td>
-      Teaching Assistant of Programming Languages<br/>
+      <b>Teaching Assistant of Programming Languages</b><br/>
       Department of Electrical and Computer Engineering - ESPOL
     </td>
     <td>
@@ -185,7 +185,7 @@ Seeking a full time position as a software engineer or research engineer where I
 <table border="0">
   <tr>
     <td>
-      Software Developer<br/>
+      <b>Software Developer</b><br/>
       Yoveri - ESPOL
     </td>
     <td>
@@ -199,7 +199,7 @@ Seeking a full time position as a software engineer or research engineer where I
 <table border="0">
   <tr>
     <td>
-      Software Developer and Research Assistant<br/>
+      <b>Software Developer and Research Assistant</b><br/>
       CENAIM - ESPOL
     </td>
     <td>
